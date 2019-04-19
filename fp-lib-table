@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name mcp6032_SOIC)(type Legacy)(uri /home/jared/Documentos/kICad_Components/MCP6032/mcp6032_SOIC.pretty/mcp6032_SOIC.mod)(options "")(descr ""))
+  (lib (name names)(type KiCad)(uri "$(KIPRJMOD)/names.pretty")(options "")(descr ""))
+  (lib (name Kardia)(type KiCad)(uri "$(KIPRJMOD)/Kardia.pretty")(options "")(descr ""))
+)
